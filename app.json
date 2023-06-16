@@ -3,6 +3,7 @@
     "name": "client",
     "slug": "client",
     "version": "1.0.0",
+    "privacy": "public",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
