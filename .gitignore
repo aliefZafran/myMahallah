@@ -11,6 +11,7 @@ npm-debug.*
 web-build/
 config/
 package.json
+%ProgramData%/
 
 # macOS
 .DS_Store
